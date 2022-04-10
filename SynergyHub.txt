@@ -1,0 +1,51 @@
+SynergyHub
+project management simplified
+
+SynergyHub: Some User Stories
+
+A user can insert the estimated time they think they will take on a task
+A user can break down a large task into smaller parts
+A user can clock in and out when working on a task
+A manager/user can celebrate an employee for good performance
+
+
+
+Story 1
+A user can break down a large task into smaller parts
+
+
+A task should be created for an employee, and the employee should receive a notification showing the task
+There should be a ‘breakdown’ button beside the task that allows the employee to breakdown tasks.
+There should be a feedback slot besides the tasks that allows employee to leave any notes concerning the tasks
+
+
+Story 2
+A user can insert the estimated time they think they will take on a task
+
+An employee should be able to add estimated times of completion against their tasks
+The estimated time should be shared with the assignee so they know when to check in or if they have gone beyond stated times
+
+
+Story 3
+A user can clock in and out when working on a task
+
+Before a user begins a task, they should clock into the system so that their time spent on the task is recorded
+The user should also clock out when they are done working or they have paused working on the task
+Clock in and out times will automatically reflect once they are clicked on. (will reflect time on your laptop/phone)
+The total time spent will reflect against the estimated time when project is completed
+
+
+
+Story 4
+A manager can celebrate an employee/team for good performance
+
+There will be a section for top management employees only that allows them to recognize the efforts of employees
+Other users can then join in celebrating the employees once it’s posted.
+
+
+List of views
+      A task page
+      A breakdown of tasks
+A clock in and clock out section
+A shoutout section
+
