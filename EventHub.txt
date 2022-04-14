@@ -1,0 +1,65 @@
+EventHub
+An app where planners and vendors meet.
+
+EventHub: User stories
+A user can register on the app as either a vendor, event planner or individual
+Vendors can showcase their products with prices
+Event planners can create portfolios of their work
+A booking for consultation can be made with a calendar that shows the vendor/planners availability
+Clients can leave reviews
+
+Story 1
+“A user can register on the app as either a vendor, event planner or individual”
+
+
+Once the app is downloaded, a user has the option of registering as either a vendor, planner or individual capacity
+If the user is already registered, they can go ahead and login 
+Once logged in, the user will see a page that shows posts related to their interests/industry.
+
+
+Story 2
+
+“Vendors can showcase their products with prices”
+
+
+Vendors can create a catalog of the products they offer coupled with a price range.
+
+
+Story 3
+
+“Event planners can create portfolios of their work”
+
+
+Event planners can create a portfolio showcasing the services they’ve provided for clients
+
+
+Story 4
+
+“A booking for consultation can be made with a calendar that shows the vendor/planners availability”
+
+
+If a client wants to book a consultation with a vendor/ planner they can do so through a calendar link on the profile that shows available dates
+A notification will be sent to the vendor/planner informing them of the consultation
+
+Story 5
+
+“Clients can leave reviews”
+
+There will be a review section on vendors and planners pages that allows clients to leave a review.
+
+List of views
+
+
+
+A login/ sign up page
+A page for vendors to showcase their products
+A page for planners to show their portfolio
+A calendar booking page
+A review section.
+
+
+
+
+
+
+     
